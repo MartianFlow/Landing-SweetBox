@@ -1107,7 +1107,7 @@ html {
     border: none;
     background: none;
     outline: none;
-    
+    z-index: 2;
     
 }
 
