@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/pastrmhv/public_html/
-    - /bin/rsync -av Landing-SweetBox/ $DEPLOYPATH
+    - /bin/cp Landing-SweetBox/ $DEPLOYPATH
